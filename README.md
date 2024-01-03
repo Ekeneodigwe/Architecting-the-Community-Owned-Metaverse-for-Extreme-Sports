@@ -21,4 +21,4 @@ This repository provides an overview of the product roadmap and technology initi
 The aim - architecting platforms and primitives where the culture, economics and governance of extreme sports thrive on chain into perpetuity through community-centric product management.
 
 Please explore examples within this portfolio that encapsulate the product roadmaps, partnerships and participatory processes fueling this ambitious decentralized future.
-## - https://github.com/Ekeneodigwe/Architecting-the-Community-Owned-Metaverse-for-Extreme-Sports/issues/1
+## product roadmaps - https://github.com/Ekeneodigwe/Architecting-the-Community-Owned-Metaverse-for-Extreme-Sports/issues/1
