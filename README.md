@@ -1,10 +1,8 @@
-Here is an updated repository description implementing the additional optimization recommendations:
-
-Architecting the Web3-Native Extreme Sports Metaverse 
+# Architecting the Web3-Native Extreme Sports Metaverse 
 
 This repository provides an overview of the product roadmap and technology initiatives led for building out GO WFO's community-owned metaverse ecosystem.
 
-Featuring:
+# Featuring:
 
 📈 Metric-driven slidedeck visualizing the 3-year vision translated into quarterly KPIs and milestone projections
 
