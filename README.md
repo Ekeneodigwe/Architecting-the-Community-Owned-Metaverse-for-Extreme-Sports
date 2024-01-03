@@ -22,3 +22,4 @@ The aim - architecting platforms and primitives where the culture, economics and
 
 Please explore examples within this portfolio that encapsulate the product roadmaps, partnerships and participatory processes fueling this ambitious decentralized future.
 ## Product Roadmaps - https://github.com/Ekeneodigwe/Architecting-the-Community-Owned-Metaverse-for-Extreme-Sports/issues/1
+## WFO DAO Whitepaper Draft - https://github.com/Ekeneodigwe/Architecting-the-Community-Owned-Metaverse-for-Extreme-Sports/issues/new
